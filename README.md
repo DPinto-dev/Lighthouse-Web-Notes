@@ -9,4 +9,8 @@ In markdown the # symbol denotes a header, similar to header tags in HTML. Also 
 # This is an H1 header (largest)
 ###### This is an H6 header (smallest)
 
+***
 ## Table of Contents
+<!-- Using * is similar to an <ul>. The indent makes it a sub-item in the list-->
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
